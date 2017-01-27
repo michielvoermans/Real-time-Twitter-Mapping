@@ -5,4 +5,4 @@
 ###### Jorn van der Ent
 ###### Michiel Voermans
 #### Aim:
-To create a (if possible web-)map that visualizes real-time tweets with coinciding #'s per region on the globe. 
+###### To create a (if possible web-)map that visualizes real-time tweets with coinciding #'s per region on the globe. 
