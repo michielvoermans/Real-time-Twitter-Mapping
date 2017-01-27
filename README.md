@@ -1,3 +1,8 @@
 # Real-time Twitter Mapping
-Example of how to set up a RSTudio project with git
-##### test, does git GUI notice this???
+##### GRS33806 Project
+##### 27th of January, 2017
+##### Team Hadochi:
+###### Jorn van der Ent
+###### Michiel Voermans
+#### Aim:
+To create a (if possible web-)map that visualizes real-time tweets with coinciding #'s per region on the globe. 
